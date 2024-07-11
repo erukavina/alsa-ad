@@ -24,4 +24,3 @@ bool init_alsa() {
 
     return true;
 }
-
